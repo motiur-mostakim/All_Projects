@@ -82,3 +82,12 @@ A new Flutter project.
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot59.png" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot60.png" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot61.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot62.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot63.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot64.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot65.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot66.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot67.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot68.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot69.png" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/motiur-mostakim/All-Project-Design-Page-Screenshot/blob/main/screenshots/Screenshot70.png" />
